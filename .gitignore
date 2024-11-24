@@ -22,8 +22,8 @@ Dockerfile
 /classes/
 
 .idea/*
-!.idea/runConfigurations/
-!.idea/vcs.xml
-!.idea/codeStyles/
-!.idea/misc.xml
+#!.idea/runConfigurations/
+#!.idea/vcs.xml
+#!.idea/codeStyles/
+#!.idea/misc.xml
 .nos
