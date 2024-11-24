@@ -1,1 +1,2 @@
-Hello welcome to git sessionghjklbhjkbjvbc
+Hello welcome to git sessiong
+Learn about various git commands
