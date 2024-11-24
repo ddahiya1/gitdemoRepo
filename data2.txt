@@ -3,4 +3,4 @@ Welcome to page 2 of git commands
 welcome to git advanced commands
 
 
-advance commands like git reflog
+advance commands like git reflog , git cherry pick , git merge vs rebase , git squash ,git reset
